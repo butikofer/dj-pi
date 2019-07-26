@@ -19,7 +19,7 @@ AUDIO_FILES_DIR="/home/pi/dj-pi/audio-files"
 MAC_ADDR="40:B4:CD:27:E1:12"
 
 # Waiting period (in seconds) to avoid detecting a phantom double button press
-TIMEOUT=2
+TIMEOUT=5
 
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.INFO)
 
