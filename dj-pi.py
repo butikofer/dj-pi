@@ -16,7 +16,7 @@ from scapy.all import *
 AUDIO_FILES_DIR="/home/pi/dj-pi/audio-files"
 
 # The MAC address of the Amazon Dash button
-MAC_ADDR="40:B4:CD:27:E1:12"
+MAC_ADDR="40:B4:CD:29:F1:74"
 
 # Waiting period (in seconds) to avoid detecting a phantom double button press
 TIMEOUT=5
